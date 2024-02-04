@@ -1,3 +1,14 @@
 start
+typingUnion
+math
 
+perceval
+numpy
+matplotlib.pyplot
+perceval.components
+perceval.components.unitary_components
+perceval.rendering.circuit 
+perceval.utils.postselect 
+scipy
+tqdm
 
